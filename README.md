@@ -21,5 +21,5 @@ A simple 3D Jump and Run adventure game developed in Unity.
 ## Getting Started
 
 1. Clone the repository to your local machine 
-2. INstall all dependencies
+2. Install all dependencies
 3. Build and run the game from the Unity editor
